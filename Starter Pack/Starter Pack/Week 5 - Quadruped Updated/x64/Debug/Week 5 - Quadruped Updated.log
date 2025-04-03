@@ -1,0 +1,11 @@
+﻿  cat.cpp
+  dog.cpp
+H:\GAMR1530\Lab Repo\Starter Pack\Starter Pack\Week 5 - Quadruped Updated\src\cat.cpp(1,10): error C1083: Cannot open include file: 'cat.h': No such file or directory
+H:\GAMR1530\Lab Repo\Starter Pack\Starter Pack\Week 5 - Quadruped Updated\src\dog.cpp(1,10): error C1083: Cannot open include file: 'dog.h': No such file or directory
+  leg.cpp
+H:\GAMR1530\Lab Repo\Starter Pack\Starter Pack\Week 5 - Quadruped Updated\src\leg.cpp(1,10): error C1083: Cannot open include file: 'leg.h': No such file or directory
+  main.cpp
+H:\GAMR1530\Lab Repo\Starter Pack\Starter Pack\Week 5 - Quadruped Updated\src\main.cpp(2,10): error C1083: Cannot open include file: 'cat.h': No such file or directory
+  quadruped.cpp
+H:\GAMR1530\Lab Repo\Starter Pack\Starter Pack\Week 5 - Quadruped Updated\src\quadruped.cpp(1,10): error C1083: Cannot open include file: 'quadruped.h': No such file or directory
+  Generating Code...
